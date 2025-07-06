@@ -1,0 +1,62 @@
+
+.nombre2 {
+   width: 311px;
+   height: 42px;
+   margin-left: 100px;
+   margin-top: 200px;
+   font-size: 28px;
+   font-weight: 500;
+   color: #000000;
+}
+
+
+.titulo {
+   width: 616px;
+   height: 232px;
+   margin-left: 100px;
+   margin-top: 10px;
+   font-size: 50px;
+   font-weight: 800;
+   color: #000000;
+}
+
+
+.txt1 {
+   width: 400px;
+   height: 42px;
+   margin-left: 100px;
+   margin-top: -80px;
+   font-size: 28px;
+   font-weight: 500;
+   color: #000000;
+}
+
+
+.boton {
+   width: 164px;
+   height: 68px;
+   margin-top: 50px;
+   margin-left: 100px;
+   border: 1px solid #000000;
+   background-color: #cc99c9;
+   border-radius: 6px;
+}
+
+
+.txt2 {
+   width: 81px;
+   height: 30px;
+   margin-top: 16px;
+   margin-left: 45px;
+   font-size: 20px;
+   font-weight: 400;
+   color: black;
+}
+
+
+.img4 {
+   width: 506px;
+   height: 509px;
+   margin-left: 800px;
+   margin-top: -450px;
+}
