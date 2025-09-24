@@ -20,8 +20,8 @@
 
 
 .proyecto1 {
-   width: 560px;
-   height: 400px;
+   width: 400px;
+   height: 300px;
    margin-top: 80px;
    margin-left: 100px;
 }
@@ -48,8 +48,8 @@
 
 
 .proyecto2 {
-   width: 560px;
-   height: 400px;
+   width: 400px;
+   height: 300px;
    margin-top: -1200px;
    margin-left: 850px;
  
@@ -70,8 +70,8 @@
 
 
 .proyecto3 {
-   width: 560px;
-   height: 400px;
+   width: 400px;
+   height: 300px;
    margin-top: 50px;
    margin-left: 100px;
 }
@@ -92,8 +92,8 @@
 
 
 .proyecto4 {
-   width: 560px;
-   height: 400px;
+   width: 400px;
+   height: 300px;
    margin-top: -1200px;
    margin-left: 850px;
     
@@ -115,10 +115,10 @@
 
 
 .proyecto5 {
-   width: 560px;
-   height: 400px;
+   width: 400px;
+   height: 300px;
    margin-top: 50px;
-   margin-left: 350px;
+   margin-left: 8rem;
 }
 
 
@@ -126,10 +126,30 @@
    width: 815px;
    height: 44px;
    margin-top: 10px;
-   margin-left: 350px;
+   margin-left: 8rem;
    font-size: 24px;
    color: #4d3653;
    display: flex;
    flex-direction: column;
    flex-direction: row;
+}
+.proyecto6 {
+   width: 400px;
+   height: 300px;
+   margin-top: -1200px;
+   margin-left: 850px;
+ 
+}
+
+.Lista{
+   width: 815px;
+   height: 44px;
+   margin-top: 10px;
+   margin-left: 900px;
+   font-size: 24px;
+   color: #4d3653;
+   display: flex;
+   flex-direction: column;
+   flex-direction: row;
+
 }
