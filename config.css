@@ -1,17 +1,36 @@
-*{
-   margin: 0;
-   padding: 0;
-   box-sizing: border-box;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-
-
-body {
-   margin: auto;
-   border-radius: 20px;
-}
-
 
 html {
-   font-size: 10px;
-   font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.pantalla-wrapper {
+    display: flex;
+    justify-content: center; 
+    width: 100%;
+    overflow-x: hidden;      
+    overflow-y: auto;      
+}
+
+
+.diseño {
+    width: 1440px;           
+    height: 3984px;
+    background-color: #fbcccc;
+    border: 5px solid black;
+}
+
+
+@media (max-width: 768px) {
+    .diseño {
+        transform: scale(0.26);          
+        transform-origin: top center;    
+    }
 }
